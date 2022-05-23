@@ -15,11 +15,11 @@ Link: https://cpad-gazipur.github.io/Bottom-Sheet/
 
 | Home Screen      |  BottomSheet Screen | 
 | :---:       |    :----:   | 
-| <img src="screenshots/bottom_sheet_home_view.png">       |  <img src="screenshots/bottom_sheet_bottom_view.png">     |
+| <img src="screenshots/bottom_sheet_home_view.png">       |  <img src="screenshots/bottom_sheet_bottom_view.png">       |
 
 | Web Home Screen      |  Web BottomSheet Screen | 
 | :---:       |    :----:   | 
-| <img src="screenshots/bottom_sheet_home_view_web.jpeg">       |  <img src="screenshots/bottom_sheet_bottom_view_web.jpeg">     |
+| <img src="screenshots/bottom_sheet_home_view_web.jpeg">       |  <img src="screenshots/bottom_sheet_bottom_view_web.jpeg">       |
 
 ### Disclaimer
 This project is made only for educational purpose. Anyone can use it but the risk has to be taken by the user.
