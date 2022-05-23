@@ -1,16 +1,37 @@
-# bottom_sheet
+# Bottom Sheet 
+This is an Practice app of Flutter Bottom Sheet.
 
-A new Flutter project.
+### Download App:
 
-## Getting Started
+Link: https://terabox.com/s/1Fins8-MGYq1onzcSKXaObw
 
-This project is a starting point for a Flutter application.
+### Live Site:
 
-A few resources to get you started if this is your first Flutter project:
+Link: https://cpad-gazipur.github.io/Bottom-Sheet/
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screenshots:
+
+
+| Home Screen      |  BottomSheet Screen | 
+| :---:       |    :----:   | 
+| <img src="screenshots/bottom_sheet_home_view.png">       |  <img src="screenshots/bottom_sheet_bottom_view.png">     |
+
+| Web Home Screen      |  Web BottomSheet Screen | 
+| :---:       |    :----:   | 
+| <img src="screenshots/bottom_sheet_home_view_web.jpeg">       |  <img src="screenshots/bottom_sheet_bottom_view_web.jpeg">     |
+
+### Disclaimer
+This project is made only for educational purpose. Anyone can use it but the risk has to be taken by the user.
+for any query please contact me.
+
+### Repository Owner Info
+
+### Md. Al-Amin
+##### Junior Software Engineer (Android & iOS) at Rokomari.com
+
+__Email :__ [ alamin.karno@outlook.com ](mailto:alamin.karno@outlook.com) <br>
+__Github :__ [Md. Al-Amin](https://github.com/karno786)<br>
+__Facebook :__ [মোঃ আল-আমিন খন্দকার কর্ণ](https://facebook.com/alamin.kanro786) <br>
+__Linkedin :__ [Md. Alamin Karno](https://www.linkedin.com/in/alaminkarno/)
+<br>
